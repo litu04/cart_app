@@ -40,6 +40,14 @@ class CartItem extends React.Component{
         // this.setState({
         //     qty: this.state.qty + 2
         // })
+        // this.setState({
+        //     qty: this.state.qty + 3
+        // })
+        // this.setState({
+        //     qty: this.state.qty + 4
+        // },() => {
+            //console.log("qty",this.state.qty);
+        //})
         
 
         // setstate form II
